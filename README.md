@@ -1,0 +1,1 @@
+#CI JUNIT [![Build status](https://ci.appveyor.com/api/projects/status/hm9mbsrkx0idbc4u?svg=true)](https://ci.appveyor.com/project/uhdasha/netology-junit2-ci)

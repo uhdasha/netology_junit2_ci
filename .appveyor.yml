@@ -1,4 +1,4 @@
-image: Ubuntu1804  # образ для сборки
+image: Visual Studio 2015  # образ для сборки
 
 branches:
   only:
@@ -7,4 +7,4 @@ branches:
 build: off  # будем использовать свой скрипт сборки
 
 build_script:
-  - ./gradlew build
+  - gradlew.bat build
